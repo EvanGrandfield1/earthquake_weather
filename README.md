@@ -5,6 +5,13 @@ sliding average of temperatures.
 
 python main.py -n 2. 
 
+Immediate next steps:
+
+I'm running over time at this point, but I was able to accurately test the contents of the while loop by
+changing the window of time looked at by the loop. That said, I have not automated testing 
+(or provided the inputs to automated testing) by writing unit tests. I've run the code 
+several times to ensure that the sliding average numbers make sense, but I can't stick within
+the time limit and still write these unit tests. 
 
 Next steps:
 Obviously, there were significant time constraints in my ability to do this exercise
